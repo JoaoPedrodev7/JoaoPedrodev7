@@ -27,10 +27,6 @@ Sou um desenvolvedor front-end júnior apaixonado por tecnologia e em constante 
 Crescer como desenvolvedor, contribuindo com projetos que entreguem soluções práticas e de qualidade, enquanto continuo expandindo meus conhecimentos em React, TypeScript e tecnologias Full Stack.
 
 ---
-![João Pedro stats](https://github-readme-stats.vercel.app/api?username=JoaoPedrodev7&show_icons=true&theme=dark)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=JoaoPedrodev7&layout=compact)
----
 
 📬 Vamos nos conectar?
 
