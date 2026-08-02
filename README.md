@@ -32,4 +32,6 @@ Crescer como desenvolvedor, contribuindo com projetos que entreguem soluções p
 
 📌 LinkedIn: www.linkedin.com/in/joão-pedro-60632b301
 
+📌 Portfólio: https://joaopedro-dev7.vercel.app/
+
 
